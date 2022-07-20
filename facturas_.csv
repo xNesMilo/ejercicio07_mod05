@@ -1,0 +1,4 @@
+id,fecha_factura,subtotal,iva,precio_total,num_factura,cliente_id,producto_id
+1,22-02-2022,10000,0.19,11900,1,1,1
+2,23-02-2022,35000,0.19,41650,2,2,2
+3,24-02-2022,10000,0.19,11900,3,3,1
